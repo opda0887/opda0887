@@ -1,4 +1,4 @@
-<h3 align="center">A new comer of frontend, game developer from Tiawan</h3>
+<h3 align="center">A newcomer of frontend, game developer from Tiawan</h3>
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/WNnYPZL.png">
 
