@@ -1,6 +1,6 @@
 <h3 align="center">A new comer of frontend, game developer from Tiawan</h3>
 
-<img align="right" width="100" height="100" src="https://i.imgur.com/WNnYPZL.png">
+<img align="right" width="200" height="200" src="https://i.imgur.com/WNnYPZL.png">
 
 - 🔭 I’m currently working on [Todo-web](https://github.com/opda0887/Todo-web)
 
