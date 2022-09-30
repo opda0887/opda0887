@@ -31,4 +31,4 @@
   - [ ] Connect with google calendar
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [ ] Add English version
-  - [ ] Simplified program
+  - [x] Simplified program
