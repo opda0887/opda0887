@@ -27,7 +27,7 @@
   - [ ] Manage the whole page
   - [ ] Create new "Contact me" button
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
-  - [ ] Add "Edit" button
+  - [x] Add "Edit" button
   - [ ] Connect with google calendar
 - [x] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [x] Add English version
