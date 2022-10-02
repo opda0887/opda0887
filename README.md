@@ -27,11 +27,13 @@
   - [ ] Manage the whole page
   - [ ] Create new "Contact me" button
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
+  - [ ] Edit th README
   - [ ] Deal with task problem (while the text is too long, it will be covered by button)
   - [ ] Style the check button
   - [x] Add "Edit" button
   - [x] Connect with google calendar
-- [x] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
+- [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
+  - [ ] Edit th README
   - [x] Add English version
   - [x] Simplified program
 - [ ] Publish my first unity game
