@@ -27,6 +27,7 @@
   - [ ] Manage the whole page
   - [ ] Create new "Contact me" button
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
+  - [ ] Deal with task problem (while the text is too long, it will be covered by button)
   - [ ] Style the check button
   - [x] Add "Edit" button
   - [x] Connect with google calendar
