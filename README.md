@@ -2,15 +2,15 @@
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/WNnYPZL.png">
 
-- 🔭 I’m currently working on [Todo-web](https://github.com/opda0887/Todo-web)
+- 🔭 I’m currently working on: [Todo-web](https://github.com/opda0887/Todo-web)
 
-- 🌱 I’m currently learning **Game dev, web dev**
+- 🌱 I’m currently learning: **Game dev, web dev**
 
-- 📫 How to reach me **opda0887@gmail.com**
+- 📫 How to reach me: **opda0887@gmail.com**
 
-- 📄 Know about my experiences [https://opda0887.github.io/intro-page/](https://opda0887.github.io/intro-page/)
+- 📄 Know about my experiences: [https://opda0887.github.io/intro-page/](https://opda0887.github.io/intro-page/)
 
-- ⚡ Hobbies **playing ping-pong, reading**
+- ⚡ Hobbies: **Playing ping-pong, Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,12 +28,12 @@
   - [ ] Create new "Contact me" button
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
   - [ ] Edit the README
-  - [x] Deal with task problem (while the text is too long, it will be covered by button)
   - [ ] Style the check button
   - [x] Add "Edit" button
   - [x] Connect with google calendar
+  - [x] Deal with task problem (while the text is too long, it will be covered by button)
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [ ] Edit the README
   - [x] Add English version
   - [x] Simplified program
-- [ ] Publish my first unity game
+- [ ] Publish my first JavaScript game
