@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiwi0922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiwi0922" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kiwi_0922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kiwi_0922" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19270299/kiwi-0922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kiwi_0922" height="30" width="40" /></a>
 <a href="https://fb.com/林隆隆" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="林隆隆" height="30" width="40" /></a>
 </p>
 
@@ -29,6 +29,7 @@
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
   - [ ] Edit the README
   - [ ] Style the check button
+  - [ ] Add dynamic background
   - [x] Add "Edit" button
   - [x] Connect with google calendar
   - [x] Deal with task problem (while the text is too long, it will be covered by button)
@@ -36,4 +37,3 @@
   - [ ] Edit the README
   - [x] Add English version
   - [x] Simplified program
-- [ ] Publish my first JavaScript game
