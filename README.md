@@ -2,7 +2,7 @@
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/WNnYPZL.png">
 
-- 🔭 I’m currently working on: [Todo-web](https://github.com/opda0887/Todo-web)
+- 🔭 I’m currently working on: [Bahamut-Crawler-To-Line](https://github.com/opda0887/Bahamut-Crawler-To-Line)
 
 - 🌱 I’m currently learning: **Game dev, web dev**
 
@@ -37,3 +37,7 @@
   - [ ] Edit the README
   - [x] Add English version
   - [x] Simplified program
+- [ ] [Bahamut-Crawler-To-Line](https://github.com/opda0887/Bahamut-Crawler-To-Line)
+  - [ ] Add more search data
+  - [ ] Make a daily-search
+  - [ ] Connect to Line
