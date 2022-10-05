@@ -33,6 +33,7 @@
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
   - [ ] Edit the README
   - [ ] Add dynamic background
+  - [ ] Add a "how to use" button
   - [x] Add "Edit" button
   - [x] Connect with google calendar
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
