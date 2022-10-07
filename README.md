@@ -25,7 +25,7 @@
 # Todo
 - [ ] [Bahamut-Crawler-To-Line](https://github.com/opda0887/Bahamut-Crawler-To-Line)
   - [x] Add more search data
-  - [ ] Make a daily-search
+  - [x] Make a daily-search
   - [ ] Connect to Line
 - [ ] [intro page](https://github.com/opda0887/intro-page)
   - [ ] Manage the whole page
@@ -34,8 +34,7 @@
   - [ ] Edit the README
   - [ ] Add dynamic background
   - [x] Add a "how to use" button
-  - [x] Add "Edit" button
   - [x] Connect with google calendar
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [ ] Edit the README
-  - [x] Add English version
+  - [ ] Add more online shop
