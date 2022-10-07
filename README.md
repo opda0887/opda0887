@@ -28,13 +28,13 @@
   - [x] Make a daily-search
   - [ ] Connect to Line
 - [ ] [intro page](https://github.com/opda0887/intro-page)
-  - [ ] Manage the whole page
   - [ ] Create new "Contact me" button
+  - [ ] Manage the whole page
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
-  - [ ] Edit the README
-  - [ ] Add dynamic background
   - [x] Add a "how to use" button
   - [x] Connect with google calendar
-- [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
+  - [ ] Add dynamic background
   - [ ] Edit the README
+- [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [ ] Add more online shop
+  - [ ] Edit the README
