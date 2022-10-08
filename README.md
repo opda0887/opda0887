@@ -35,6 +35,7 @@
   - [x] Connect with google calendar
   - [x] Edit the README
   - [ ] Add dynamic background
+  - [ ] Add dark theme
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [ ] Add more online shop
   - [ ] Edit the README
