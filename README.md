@@ -26,12 +26,12 @@
 - [ ] [Bahamut-Crawler-To-Line](https://github.com/opda0887/Bahamut-Crawler-To-Line)
   - [x] Add more search data
   - [x] Make a daily-search
-  - [ ] Connect to Line
+  - [x] Send data to Gmail
+  - [ ] Edit the README
 - [ ] [intro page](https://github.com/opda0887/intro-page)
   - [ ] Create new "Contact me" button
   - [ ] Manage the whole page
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
-  - [x] Add a "how to use" button
   - [x] Connect with google calendar
   - [x] Edit the README
   - [ ] Add dynamic background
