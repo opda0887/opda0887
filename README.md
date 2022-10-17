@@ -25,10 +25,11 @@
 # My recent Todo
 - [ ] [myLineBot](https://github.com/opda0887/myLineBot)
   - [x] Add music crawler
-  - [ ] Add **Rich Menu**
+  - [x] Add **Rich Menu**
+  - [ ] Edit the README
 - [ ] [Todo-web](https://github.com/opda0887/Todo-web)
   - [x] Connect with google calendar
-  - [ ] Add **dark theme**
+  - [ ] Edit the README
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
   - [ ] Add more online shop
   - [ ] Edit the README
