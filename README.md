@@ -31,5 +31,4 @@
   - [x] Connect with google calendar
   - [ ] Edit the README
 - [ ] [online_shop_opener](https://github.com/opda0887/online_shop_opener-py)
-  - [ ] Add more online shop
   - [ ] Edit the README
