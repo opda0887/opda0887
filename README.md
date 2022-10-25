@@ -2,7 +2,7 @@
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/WNnYPZL.png">
 
-- 🔭 I’m currently working on: [Web-Full-end-Practice](https://github.com/opda0887/Bahamut-Crawler-To-Line)
+- 🔭 I’m currently working on: [Web-Full-end-Practice](https://github.com/opda0887/Web-Full-end-Practice)
 
 - 🌱 I’m currently learning: **Game dev, web dev**
 
