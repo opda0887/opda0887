@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on: [Web-Full-end-Practice](https://github.com/opda0887/Web-Full-end-Practice)
 
-- 🌱 I’m currently learning: **Game dev, web dev**
+- 🌱 I’m currently learning: **Web dev, Web crawler**
 
 - 📫 How to reach me: **opda0887@gmail.com**
 
-- 📄 Know about my experiences: [https://opda0887.github.io/intro-page/](https://github.com/opda0887/Web-Full-end-Practice)
-
-- ⚡ Hobbies: **Playing ping-pong, Reading**
+- ⚡ Hobbies: **Playing ping-pong🏓, Reading📖, Drawing Pixel Arts🖍️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
